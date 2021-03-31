@@ -1,2 +1,7 @@
-# Mopax-Ejemplo-1
-Primer ejemplo Ayundatía 
+
+# Hola profe!
+Escribo un archivo TXT para hacer ejemplo de:
+- Crear un repositorio.
+- Clonarlo a una carpeta de mi ordenador.
+- Seleccionar un archivo a través de git y comentarlo
+- Subir el archivo.
